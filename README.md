@@ -31,3 +31,4 @@ Interactive Dashboard Design
 Business Insight Generation
 
 📷 Dashboard Preview
+https://github.com/Aayushiiiiiiii/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
